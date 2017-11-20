@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.c
+d:\files\work\isart\git\spaceinvaders\enemy.c(46): warning C4129: 'E': unrecognized character escape sequence
+  SDL.vcxproj -> D:\Files\Work\ISART\GIT\SpaceInvaders\Debug\SpaceInvaders.exe

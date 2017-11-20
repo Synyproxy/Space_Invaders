@@ -1,0 +1,8 @@
+﻿  Game.c
+     Creating library D:\Files\Work\ISART\GIT\SpaceInvaders\Release\SpaceInvaders.lib and object D:\Files\Work\ISART\GIT\SpaceInvaders\Release\SpaceInvaders.exp
+  Generating code
+  0 of 33 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL.vcxproj -> D:\Files\Work\ISART\GIT\SpaceInvaders\Release\SpaceInvaders.exe
