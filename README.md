@@ -36,6 +36,6 @@ Since the project was constrained with a tight deadline, I have adopted an agile
 * Enemies only shift down a row if a top alive enemy hit the wall.
 * Obstacles like the original Space Invaders.
 * Shiled power up for the player.
-* 
+
 ## Contact
 If you have any questions please feel free to contact me on s.raouf@student.isartdigital.com
