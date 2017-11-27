@@ -15,7 +15,7 @@ As part of my education at Isart Digital Montreal, we studied the C programming 
 * Enemies may shoot at random if there is no enemy in front of them.
 * If the player is hit 3 times, the game ends
 
-## Techinal specifications
+## How to run the game
 The main project was initialy developed on Linux (since we spent the first month on Linux only). I have proted this project over to windows using Visual Studio.
 To run the game:
 * Download the project.
